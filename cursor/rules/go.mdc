@@ -1,0 +1,20 @@
+---
+description: Go 编码规范 - 遵循 Go skills，地道 Go，避免 goroutine 泄漏与全局可变状态
+globs: "**/*.go"
+alwaysApply: false
+---
+
+All Go code must follow the installed Go skills.
+
+Use:
+
+- modern-go
+- go-concurrency
+- go-performance
+
+Prefer idiomatic Go.
+
+Avoid:
+
+- goroutine leaks
+- global mutable state
