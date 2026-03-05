@@ -11,6 +11,7 @@ Use:
 - modern-go
 - go-concurrency
 - go-performance
+- go-error-handling
 
 Prefer idiomatic Go.
 
