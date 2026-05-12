@@ -8,7 +8,7 @@ All Go code must follow the installed Go skills.
 
 Use:
 
-- modern-go
+- use-modern-go
 - go-concurrency
 - go-performance
 - go-error-handling
