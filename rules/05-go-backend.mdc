@@ -4,18 +4,11 @@ globs: "**/*.go"
 alwaysApply: false
 ---
 
-All Go code must follow the installed Go skills.
-
-Use:
+所有 Go 代码 **必须** 遵循以下安装的 Go Skills
 
 - use-modern-go
 - go-concurrency
 - go-performance
 - go-error-handling
 
-Prefer idiomatic Go.
-
-Avoid:
-
-- goroutine leaks
-- global mutable state
+优先使用符合 Go 惯用风格（idiomatic Go）的写法。
